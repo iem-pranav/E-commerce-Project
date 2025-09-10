@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { NavLink , useNavigate , useParams, useSearchParams } from 'react-router';
+import { NavLink , useNavigate , useSearchParams } from 'react-router';
 import logoWhite from "../../public/images/logo-white.png";
 import mobileLogoWhite from "../../public/images/mobile-logo-white.png";
 import './Header.css';
